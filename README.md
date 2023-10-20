@@ -1,7 +1,8 @@
 # simple_flask_webapp
 If you want to create a backend for a larg site you can use this structure <br>
 <h3>
-.<br>
+'''
+.
 ├── app<br>
 │   ├── extensions.py<br>
 │   ├── __init__.py<br>
@@ -27,7 +28,7 @@ If you want to create a backend for a larg site you can use this structure <br>
 │           └── index.html<br>
 ├── config.py<br>
 </h3>
-<br>
+'''
 <h2>Using : </h2><br>
 <code>
   cd simple_flask_struc <br>

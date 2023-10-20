@@ -1,31 +1,31 @@
 # simple_flask_webapp
 If you want to create a backend for a larg site you can use this structure <br>
 <h3>
-.
-├── app
-│   ├── extensions.py
-│   ├── __init__.py
-│   ├── main
-│   │   ├── __init__.py
-│   │   └── routes.py
-│   ├── models
-│   │   ├── post.py
-│   │   └── question.py
-│   ├── posts
-│   │   ├── __init__.py
-│   │   └── routes.py
-│   ├── questions
-│   │   ├── __init__.py
-│   │   └── routes.py
-│   └── templates
-│       ├── base.html
-│       ├── index.html
-│       ├── posts
-│       │   ├── categories.html
-│       │   └── index.html
-│       └── questions
-│           └── index.html
-├── config.py
+.<br>
+├── app<br>
+│   ├── extensions.py<br>
+│   ├── __init__.py<br>
+│   ├── main<br>
+│   │   ├── __init__.py<br>
+│   │   └── routes.py<br>
+│   ├── models<br>
+│   │   ├── post.py<br>
+│   │   └── question.py<br>
+│   ├── posts<br>
+│   │   ├── __init__.py<br>
+│   │   └── routes.py<br>
+│   ├── questions<br>
+│   │   ├── __init__.py<br>
+│   │   └── routes.py<br>
+│   └── templates<br>
+│       ├── base.html<br>
+│       ├── index.html<br>
+│       ├── posts<br>
+│       │   ├── categories.html<br>
+│       │   └── index.html<br>
+│       └── questions<br>
+│           └── index.html<br>
+├── config.py<br>
 </h3>
 <br>
 <h2>Using : </h2><br>
